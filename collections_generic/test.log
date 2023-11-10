@@ -1,0 +1,140 @@
+Running suite Linked list int Tests
+./tests/linked_list/int_tests_ll.c:76:P:Push pop:push_back_pop_back_int:0: Passed
+./tests/linked_list/int_tests_ll.c:19:P:Push pop:push_front_pop_back_int:0: Passed
+./tests/linked_list/int_tests_ll.c:57:P:Push pop:push_back_pop_front_int:0: Passed
+./tests/linked_list/int_tests_ll.c:38:P:Push pop:push_front_pop_front_int:0: Passed
+./tests/linked_list/int_tests_ll.c:121:P:Get value from linked list:get_by_index_int_incorrect_index:0: Passed
+./tests/linked_list/int_tests_ll.c:93:P:Get value from linked list:get_by_index_int_normal_push_back:0: Passed
+./tests/linked_list/int_tests_ll.c:107:P:Get value from linked list:get_by_index_int_normal_push_front:0: Passed
+./tests/linked_list/int_tests_ll.c:136:P:Get value from linked list with copy:get_by_index_with_copy_int_normal_push_back:0: Passed
+./tests/linked_list/int_tests_ll.c:152:P:Get value from linked list with copy:get_by_index_with_copy_int_normal_push_front:0: Passed
+./tests/linked_list/int_tests_ll.c:167:P:Get value from linked list with copy:get_by_index_with_copy_int_incorrect_index_with_copy:0: Passed
+./tests/linked_list/int_tests_ll.c:187:P:Is empty linked list:is_empty_int_and_push_pop_peek:0: Passed
+./tests/linked_list/int_tests_ll.c:213:P:Contains in linked list:test_contains_in_linked_list_element_found:0: Passed
+./tests/linked_list/int_tests_ll.c:225:P:Contains in linked list:test_contains_in_linked_list_element_not_found:0: Passed
+./tests/linked_list/int_tests_ll.c:200:P:Contains in linked list:test_contains_in_linked_list_empty_list:0: Passed
+./tests/linked_list/int_tests_ll.c:269:P:Count in linked list:count_in_linked_list_element_at_beginning:0: Passed
+./tests/linked_list/int_tests_ll.c:286:P:Count in linked list:count_in_linked_list_element_at_end:0: Passed
+./tests/linked_list/int_tests_ll.c:235:P:Count in linked list:count_in_linked_list_empty_list:0: Passed
+./tests/linked_list/int_tests_ll.c:303:P:Count in linked list:count_in_linked_list_element_in_middle:0: Passed
+./tests/linked_list/int_tests_ll.c:252:P:Count in linked list:test_element_not_present:0: Passed
+./tests/linked_list/int_tests_ll.c:313:P:Remove from linked list:test_remove_from_linked_list_empty_list:0: Passed
+./tests/linked_list/int_tests_ll.c:325:P:Remove from linked list:test_remove_from_linked_list_element_not_found:0: Passed
+./tests/linked_list/int_tests_ll.c:339:P:Remove from linked list:test_remove_from_linked_list_element_found:0: Passed
+./tests/linked_list/int_tests_ll.c:401:P:Find in linked list:test_find_in_linked_list_empty_list:0: Passed
+./tests/linked_list/int_tests_ll.c:413:P:Find in linked list:test_find_in_linked_list_element_not_found:0: Passed
+./tests/linked_list/int_tests_ll.c:426:P:Find in linked list:test_find_in_linked_list_element_found:0: Passed
+./tests/linked_list/int_tests_ll.c:436:P:R find in linked list:test_r_find_in_linked_list_empty_list:0: Passed
+./tests/linked_list/int_tests_ll.c:448:P:R find in linked list:test_r_find_in_linked_list_element_not_found:0: Passed
+./tests/linked_list/int_tests_ll.c:462:P:R find in linked list:test_r_find_in_linked_list_element_found:0: Passed
+./tests/linked_list/int_tests_ll.c:349:P:Remove all from linked list:test_remove_all_from_linked_list_empty_list:0: Passed
+./tests/linked_list/int_tests_ll.c:362:P:Remove all from linked list:test_remove_all_from_linked_list_element_not_found:0: Passed
+./tests/linked_list/int_tests_ll.c:376:P:Remove all from linked list:test_remove_all_from_linked_list_element_found_once:0: Passed
+./tests/linked_list/int_tests_ll.c:391:P:Remove all from linked list:test_remove_all_from_linked_list_element_found_multiple_times:0: Passed
+Running suite Linked list struct  tests_struct_t
+./tests/linked_list/struct_tests_ll.c:80:P:Push pop:push_back_pop_back_int:0: Passed
+./tests/linked_list/struct_tests_ll.c:23:P:Push pop:push_front_pop_back_int:0: Passed
+./tests/linked_list/struct_tests_ll.c:61:P:Push pop:push_back_pop_front_int:0: Passed
+./tests/linked_list/struct_tests_ll.c:42:P:Push pop:push_front_pop_front_int:0: Passed
+./tests/linked_list/struct_tests_ll.c:125:P:Get value from linked list:get_by_index_int_incorrect_index:0: Passed
+./tests/linked_list/struct_tests_ll.c:97:P:Get value from linked list:get_by_index_int_normal_push_back:0: Passed
+./tests/linked_list/struct_tests_ll.c:111:P:Get value from linked list:get_by_index_int_normal_push_front:0: Passed
+./tests/linked_list/struct_tests_ll.c:140:P:Get value from linked list with copy:get_by_index_with_copy_int_normal_push_back:0: Passed
+./tests/linked_list/struct_tests_ll.c:156:P:Get value from linked list with copy:get_by_index_with_copy_int_normal_push_front:0: Passed
+./tests/linked_list/struct_tests_ll.c:171:P:Get value from linked list with copy:get_by_index_with_copy_int_incorrect_index_with_copy:0: Passed
+./tests/linked_list/struct_tests_ll.c:191:P:Is empty linked list:is_empty_int_and_push_pop_peek:0: Passed
+./tests/linked_list/struct_tests_ll.c:217:P:Contains in linked list:test_contains_in_linked_list_element_found:0: Passed
+./tests/linked_list/struct_tests_ll.c:229:P:Contains in linked list:test_contains_in_linked_list_element_not_found:0: Passed
+./tests/linked_list/struct_tests_ll.c:204:P:Contains in linked list:test_contains_in_linked_list_empty_list:0: Passed
+./tests/linked_list/struct_tests_ll.c:273:P:Count in linked list:count_in_linked_list_element_at_beginning:0: Passed
+./tests/linked_list/struct_tests_ll.c:290:P:Count in linked list:count_in_linked_list_element_at_end:0: Passed
+./tests/linked_list/struct_tests_ll.c:239:P:Count in linked list:count_in_linked_list_empty_list:0: Passed
+./tests/linked_list/struct_tests_ll.c:307:P:Count in linked list:count_in_linked_list_element_in_middle:0: Passed
+./tests/linked_list/struct_tests_ll.c:256:P:Count in linked list:test_element_not_present:0: Passed
+./tests/linked_list/struct_tests_ll.c:317:P:Remove from linked list:test_remove_from_linked_list_empty_list:0: Passed
+./tests/linked_list/struct_tests_ll.c:329:P:Remove from linked list:test_remove_from_linked_list_element_not_found:0: Passed
+./tests/linked_list/struct_tests_ll.c:343:P:Remove from linked list:test_remove_from_linked_list_element_found:0: Passed
+./tests/linked_list/struct_tests_ll.c:404:P:Find in linked list:test_find_in_linked_list_empty_list:0: Passed
+./tests/linked_list/struct_tests_ll.c:416:P:Find in linked list:test_find_in_linked_list_element_not_found:0: Passed
+./tests/linked_list/struct_tests_ll.c:429:P:Find in linked list:test_find_in_linked_list_element_found:0: Passed
+./tests/linked_list/struct_tests_ll.c:439:P:R find in linked list:test_r_find_in_linked_list_empty_list:0: Passed
+./tests/linked_list/struct_tests_ll.c:451:P:R find in linked list:test_r_find_in_linked_list_element_not_found:0: Passed
+./tests/linked_list/struct_tests_ll.c:465:P:R find in linked list:test_r_find_in_linked_list_element_found:0: Passed
+./tests/linked_list/struct_tests_ll.c:353:P:Remove all from linked list:test_remove_all_from_linked_list_empty_list:0: Passed
+./tests/linked_list/struct_tests_ll.c:366:P:Remove all from linked list:test_remove_all_from_linked_list_element_not_found:0: Passed
+./tests/linked_list/struct_tests_ll.c:380:P:Remove all from linked list:test_remove_all_from_linked_list_element_found_once:0: Passed
+./tests/linked_list/struct_tests_ll.c:394:P:Remove all from linked list:test_remove_all_from_linked_list_element_found_multiple_times:0: Passed
+Running suite Linked list string_t tests_string_t
+./tests/linked_list/string_tests_ll.c:73:P:Push pop:test_push_back_no_null:0: Passed
+./tests/linked_list/string_tests_ll.c:104:P:Push pop:test_push_front_string_t:0: Passed
+./tests/linked_list/string_tests_ll.c:88:P:Push pop:test_push_back_string_t:0: Passed
+./tests/linked_list/string_tests_ll.c:117:P:Push pop:test_push_front_empty_string_t:0: Passed
+./tests/linked_list/string_tests_ll.c:146:P:Push pop:test_pop_back_empty_string_t:0: Passed
+./tests/linked_list/string_tests_ll.c:162:P:Push pop:test_pop_front_string_t:0: Passed
+./tests/linked_list/string_tests_ll.c:133:P:Push pop:test_pop_back_string_t:0: Passed
+./tests/linked_list/string_tests_ll.c:175:P:Push pop:test_pop_front_empty_string_t:0: Passed
+./tests/linked_list/string_tests_ll.c:60:P:Peek:test_peek_back_empty_string_t:0: Passed
+./tests/linked_list/string_tests_ll.c:32:P:Peek:test_peek_front_empty_string_t:0: Passed
+./tests/linked_list/string_tests_ll.c:18:P:Peek:test_peek_front_string_t:0: Passed
+./tests/linked_list/string_tests_ll.c:47:P:Peek:test_peek_back_string_t:0: Passed
+./tests/linked_list/string_tests_ll.c:213:P:Get value from linked list:test_get_by_index_empty_string_t:0: Passed
+./tests/linked_list/string_tests_ll.c:199:P:Get value from linked list:test_get_by_index_string_t:0: Passed
+./tests/linked_list/string_tests_ll.c:225:P:Get value from linked list:test_get_by_index_out_of_bounds_string_t:0: Passed
+./tests/linked_list/string_tests_ll.c:283:P:Get value from linked list with copy:test_get_by_index_with_copy_from_linked_list_empty_list:0: Passed
+./tests/linked_list/string_tests_ll.c:271:P:Get value from linked list with copy:test_get_by_index_with_copy_from_linked_list_invalid_index:0: Passed
+./tests/linked_list/string_tests_ll.c:249:P:Get value from linked list with copy:test_get_by_index_with_copy_from_linked_list_valid_index:0: Passed
+./tests/linked_list/string_tests_ll.c:287:E:Get size of linked list:test_get_size_of_linked_list_string_t:0: (after this point) Test timeout expired
+./tests/linked_list/string_tests_ll.c:312:P:Contains in linked list:test_contains_in_linked_list_string_t_element_found:0: Passed
+./tests/linked_list/string_tests_ll.c:327:P:Contains in linked list:test_contains_in_linked_list_string_t_element_not_found:0: Passed
+./tests/linked_list/string_tests_ll.c:340:P:Contains in linked list:test_contains_in_linked_list_string_t_empty_list:0: Passed
+./tests/linked_list/string_tests_ll.c:382:P:Count in linked list:test_count_in_linked_list_element_found_multiple_times:0: Passed
+./tests/linked_list/string_tests_ll.c:367:P:Count in linked list:test_count_in_linked_list_element_found_once:0: Passed
+./tests/linked_list/string_tests_ll.c:352:P:Count in linked list:test_count_in_linked_list_empty_list:0: Passed
+./tests/linked_list/string_tests_ll.c:395:P:Count in linked list:test_count_in_linked_list_element_not_found:0: Passed
+./tests/linked_list/string_tests_ll.c:486:P:Remove from linked list:test_remove_from_linked_list_empty_list:0: Passed
+./tests/linked_list/string_tests_ll.c:535:P:Remove from linked list:test_remove_from_linked_list_first_occurrence:0: Passed
+./tests/linked_list/string_tests_ll.c:552:P:Remove from linked list:test_remove_from_linked_list_last_occurrence:0: Passed
+./tests/linked_list/string_tests_ll.c:501:P:Remove from linked list:test_remove_from_linked_list_invalid_data:0: Passed
+./tests/linked_list/string_tests_ll.c:518:P:Remove from linked list:test_remove_from_linked_list_valid_data:0: Passed
+./tests/linked_list/string_tests_ll.c:408:P:Remove by index from linked list:test_remove_by_index_from_linked_list_empty_list:0: Passed
+./tests/linked_list/string_tests_ll.c:421:P:Remove by index from linked list:test_remove_by_index_from_linked_list_invalid_index:0: Passed
+./tests/linked_list/string_tests_ll.c:437:P:Remove by index from linked list:test_remove_by_index_from_linked_list_valid_index:0: Passed
+./tests/linked_list/string_tests_ll.c:454:P:Remove by index from linked list:test_remove_by_index_from_linked_list_first_index:0: Passed
+./tests/linked_list/string_tests_ll.c:471:P:Remove by index from linked list:test_remove_by_index_from_linked_list_last_index:0: Passed
+./tests/linked_list/string_tests_ll.c:567:P:Remove all from linked list:test_remove_all_from_linked_list_empty_list:0: Passed
+./tests/linked_list/string_tests_ll.c:582:P:Remove all from linked list:test_remove_all_from_linked_list_invalid_data:0: Passed
+./tests/linked_list/string_tests_ll.c:599:P:Remove all from linked list:test_remove_all_from_linked_list_valid_data:0: Passed
+./tests/linked_list/string_tests_ll.c:633:P:Remove all from linked list:test_remove_all_from_linked_list_last_occurrence:0: Passed
+./tests/linked_list/string_tests_ll.c:616:P:Remove all from linked list:test_remove_all_from_linked_list_first_occurrence:0: Passed
+./tests/linked_list/string_tests_ll.c:646:P:Find in linked list:test_find_in_linked_list_empty_list:0: Passed
+./tests/linked_list/string_tests_ll.c:692:P:Find in linked list:test_find_in_linked_list_first_occurrence:0: Passed
+./tests/linked_list/string_tests_ll.c:676:P:Find in linked list:test_find_in_linked_list_valid_data:0: Passed
+./tests/linked_list/string_tests_ll.c:660:P:Find in linked list:test_find_in_linked_list_invalid_data:0: Passed
+./tests/linked_list/string_tests_ll.c:709:P:Find in linked list:test_find_in_linked_list_last_occurrence:0: Passed
+./tests/linked_list/string_tests_ll.c:722:P:R find in linked list:test_r_find_in_linked_list_empty_list:0: Passed
+./tests/linked_list/string_tests_ll.c:768:P:R find in linked list:test_r_find_in_linked_list_first_occurrence:0: Passed
+./tests/linked_list/string_tests_ll.c:752:P:R find in linked list:test_r_find_in_linked_list_valid_data:0: Passed
+./tests/linked_list/string_tests_ll.c:736:P:R find in linked list:test_r_find_in_linked_list_invalid_data:0: Passed
+./tests/linked_list/string_tests_ll.c:785:P:R find in linked list:test_r_find_in_linked_list_last_occurrence:0: Passed
+Running suite Hash Table Tests
+./tests/hash_table/int_key_float_value.c:10:E:Add in hash table:test_add_to_hash_table_existing_key:0: (after this point) Received signal 11 (Segmentation fault)
+./tests/hash_table/int_key_float_value.c:36:E:Add in hash table:test_add_to_hash_table_duplicate_key:0: (after this point) Received signal 11 (Segmentation fault)
+./tests/hash_table/int_key_float_value.c:75:P:Get Value from Hash Table:test_get_from_hash_table_existing_key:0: Passed
+./tests/hash_table/int_key_float_value.c:87:E:Get Value from Hash Table:test_get_from_hash_table_non_existing_key:0: (after this point) Received signal 11 (Segmentation fault)
+./tests/hash_table/int_key_float_value.c:133:P:Change Value in Hash Table:test_change_in_hash_table:0: Passed
+./tests/hash_table/int_key_float_value.c:145:E:Change Value in Hash Table:test_change_in_hash_table_non_existing_key:0: (after this point) Received signal 11 (Segmentation fault)
+./tests/hash_table/int_key_float_value.c:189:P:Remove Value from Hash Table:test_remove_from_hash_table:0: Passed
+./tests/hash_table/int_key_float_value.c:201:E:Remove Value from Hash Table:test_remove_from_hash_table_non_existing_key:0: (after this point) Received signal 11 (Segmentation fault)
+Running suite StringKeyIntValueTests
+./tests/hash_table/string_key_int_value.c:20:E:AddToHashTable:test_add_to_hash_table_existing_key:0: (after this point) Received signal 11 (Segmentation fault)
+./tests/hash_table/string_key_int_value.c:56:P:AddToHashTable:test_add_to_hash_table_duplicate_key:0: Passed
+./tests/hash_table/string_key_int_value.c:141:E:ChangeInHashTable:test_change_in_hash_table:0: (after this point) Received signal 11 (Segmentation fault)
+./tests/hash_table/string_key_int_value.c:204:P:ChangeInHashTable:test_change_in_hash_table_not_exist_key:0: Passed
+./tests/hash_table/string_key_int_value.c:220:E:GetFromHashTable:test_get_from_hash_table:0: (after this point) Received signal 11 (Segmentation fault)
+./tests/hash_table/string_key_int_value.c:263:P:GetFromHashTable:test_get_from_hash_table_non_existing_key:0: Passed
+./tests/hash_table/string_key_int_value.c:278:E:RemoveFromHashTable:test_remove_from_hash_table_existing_key:0: (after this point) Received signal 11 (Segmentation fault)
+./tests/hash_table/string_key_int_value.c:325:P:RemoveFromHashTable:test_remove_from_hash_table_non_existing_key:0: Passed
+./tests/hash_table/string_key_int_value.c:71:E:ContainsKey:test_contains_key:0: (after this point) Received signal 11 (Segmentation fault)
+./tests/hash_table/string_key_int_value.c:125:P:ContainsKey:test_contains_key_2_keys:0: Passed
+Results for all suites run:
+91%: Checks: 133, Failures: 0, Errors: 11
